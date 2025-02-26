@@ -20,7 +20,7 @@ This project is a simple and responsive **social links profile** component, allo
 
 ### Screenshot
 
-![Social Links Profile Screenshot](./assets/images/screenshot-social-links.png)
+![Social Links Profile Screenshot](./assets/images/screenshot-social-links-profile.png)
 
 ### Links
 
@@ -83,7 +83,7 @@ Going forward, I want to:
 
 - Improve accessibility with ARIA attributes.
 - Experiment with more advanced animations using CSS.
-- Add JavaScript for dynamic interactions (e.g., dark mode toggle).
+- Add JavaScript for dynamic interactions (e.g., light/dark mode toggle).
 
 ### Useful Resources
 
